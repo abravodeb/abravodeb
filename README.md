@@ -7,8 +7,8 @@
 -->
 
 - Linux, scripting, server, automation (L)
-- 🔭 Actualmente implemetnado cosas bellas -> terraform, ansible docker 🐳
-- 💬 Desde ahora todos los días en algo nuevo :D 
+- 🔭 Actualmente implementando cosas bellas -> terraform, ansible docker 🐳
+- 💬 Todos los días en algo nuevo 🤖 
 - 👾 jugador de niveles experto en Mario Maker2
 
 :wq!
