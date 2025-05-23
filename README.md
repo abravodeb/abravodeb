@@ -1,18 +1,21 @@
-### Hi there 👋
+# 👋 Hi, I'm Alex Bravo
 
-## SRE | DevOps Engineer
+**Passionate about technology and how things are built.**  
+I thrive on observability, task automation, and — most importantly — having fun at work while contributing to and collaborating with my team.
 
-Passionate about technology and the way things are built. I thrive on observability, task automation, and most importantly, having fun at work while contributing and collaborating with my team.
+---
 
 ### 🛠 Tech Stack & Tools I Love
-- Kubernetes
-- Linux
-- Python
-- Scripting
-- Infrastructure as Code
-- Observability Tools
-- CI/CD
+- Kubernetes  
+- Linux  
+- Python  
+- Scripting  
+- Infrastructure as Code  
+- Observability Tools  
+- CI/CD  
+
+---
 
 ### 💡 What Drives Me
-I'm enthusiastic about building reliable systems, automating processes, and creating efficient solutions. I believe in the power of collaboration and continuous learning in the ever-evolving tech landscape.
-
+I'm passionate about building reliable systems, automating processes, and crafting efficient solutions.  
+I strongly believe in the power of collaboration and continuous learning in the ever-evolving tech landscape.
